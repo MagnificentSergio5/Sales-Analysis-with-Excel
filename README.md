@@ -8,7 +8,7 @@ This Power BI project visualizes and analyzes hotel booking data to uncover cust
 
 Key metrics shown:
 
- **Total Booking Fee:** \$14.24M
+ **Total Profit:** \$14.24M
  
  **Total Customers:** 66.52K
  
